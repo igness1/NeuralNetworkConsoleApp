@@ -15,8 +15,8 @@
 Neural network model from scratch using only numpy, pandas and matplotlib packages. Updating weights using backpropagation algorithm. 
 Pre-prepared datasets that can be used for training (pre-prepared in databases.py file):
 * Breast Cancer Wisconsin (Diagnostic) Data Set (https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic))
-*
-*
+* Glass Identification Data Set (https://archive.ics.uci.edu/ml/datasets/glass+identification)
+* Wine Data Set (https://archive.ics.uci.edu/ml/datasets/Wine)
 
 
 ## Setup
