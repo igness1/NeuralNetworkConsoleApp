@@ -103,14 +103,17 @@ neural_model_5.train_network(100)
 Example screenshots.
 
 Training process:  
+
 ![image](https://user-images.githubusercontent.com/58557112/224812246-be6d1a77-7083-401f-ab8a-663cee541105.png)
 
 Plots with ME, MSE, RMSE values during learning:  
-![image](https://user-images.githubusercontent.com/58557112/224812746-4a5ae294-cd7a-44b0-b1bd-80ab037c2e62.png)
 
-Accuracy of the model tested on a testing set: 
-![image](https://user-images.githubusercontent.com/58557112/224816647-9f2bb28c-004f-4d9e-821c-8a1ed6c9389e.png)
-![image](https://user-images.githubusercontent.com/58557112/224816749-d0742efe-2346-4de8-b0e0-b847636af500.png)
+![image](https://user-images.githubusercontent.com/58557112/224812746-4a5ae294-cd7a-44b0-b1bd-80ab037c2e62.png) 
+
+Accuracy of the model tested on a testing set:  
+
+![image](https://user-images.githubusercontent.com/58557112/224816647-9f2bb28c-004f-4d9e-821c-8a1ed6c9389e.png)  
+![image](https://user-images.githubusercontent.com/58557112/224816749-d0742efe-2346-4de8-b0e0-b847636af500.png)  
 
 
 ## Technologies
