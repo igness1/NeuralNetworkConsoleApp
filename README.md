@@ -136,4 +136,4 @@ To-do list:
 
 
 ## Inspiration
-My inspiration to create such an app was a willing to learn mathematical aspects related to the operation of neural networks.
+My inspiration to create such an app was a willing to learn how neural networks work under the hood. 
